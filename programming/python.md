@@ -1,6 +1,7 @@
 # Python
 
 ## List comprehension
+*List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.*
 
 > `V = [2**i for i in range(13)]`
 >
