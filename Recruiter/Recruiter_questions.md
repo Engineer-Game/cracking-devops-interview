@@ -4,11 +4,14 @@
 
 ## About the applicant
 - Tell me a little bit about yourself
-- I have your resume in front of me, would you mind going through it
+- I have your resume in front of me, would you mind going through it?
 - (For security positions) Have you performed tasks to secure different stages of the software development lifecycle (SDLC)?
 - (For security positions) Have you done hardening of any type of system or other defensive tasks?
+- (For security positions) Do you have experience with container security?
 - Why do you want to change from X to Y field?
 - What's your level of experience with X programming language/technology?
+- What's your notice period? (notice period -> how long in advance you need to let your current employer know that you are leaving the job)
+- Are you ok with a hybrid work model? (hybrid work model -> work some days at the office and some days from home)
 
 
 
