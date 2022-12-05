@@ -1,0 +1,4 @@
+- The technical interviewer had read my Medium posts, so keep adding them
+- Sometimes he asked short technical questions that could be answered with a short answer, but he seemed more satisfied when I gave examples about how I would do what he asked, or about related things that I have done.
+- Even if he doesn't ask me something directly but can be related to something that I did, say it to fill some minutes and give him more context.
+- When he asks something that I have only done in personal projects, instead say that I did it on a project at work.
