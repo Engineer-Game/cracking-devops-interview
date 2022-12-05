@@ -2,6 +2,7 @@
 - How would you secure a webserver. what webservers can you manage?
 - Do you know what SDLC is? How would you secure it?
 - I report to the company CISO. Do you know what a CISO is?
+- Would you mind doing development of tools and helping developers understand and fix security issues.
 - You have administered linux systems, but do you know how to secure the different parts of linux (kernel, services, etc)?
 - Why did you choose to change from your previous field to cybersecurity?
 - Why people use containers, what advantages they have, what are security problems with containers?
